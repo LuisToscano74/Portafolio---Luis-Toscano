@@ -1,2 +1,2 @@
 # Portafolio---Luis-Toscano
-Este repositorio esta dedicado a formar mi portafolio
+Este es el repositorio donde muestro mi portafolio
