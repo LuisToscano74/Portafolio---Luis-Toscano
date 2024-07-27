@@ -18,10 +18,13 @@
 */
 /* Aquí definimos las Custom properties */
  :root {
-  --negro: #393939;
+  --aquamarine: #20A1AA;
+  --light-seagreen: #98EFF5;
+  --dark-aquamarine: #10656B;
+  --blanco: #FFFFFF;
+  --negro: #000000;
   /* Tipografía */
    --tipo-principal: "montserrat", sans-serif;
-  --tipo-secundaria: Verdana;
 }  
 
 /* Las adaptamos al modo oscuro */
@@ -152,6 +155,7 @@ body {
   font-size: 100%;
   font-family: var(--tipo-principal);
   color: var(--negro);
+  background-color: var(--aquamarine);
   /* opcional */
   line-height: 1.4em;
   /* opcional */
